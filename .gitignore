@@ -1,0 +1,6 @@
+.idea
+app/vendor
+app/logs
+docker/db
+public/
+storage/
